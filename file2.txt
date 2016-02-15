@@ -12,7 +12,8 @@ fuggveny1
 fuggveny2
 
 	f2sor1
-
+	f2sor50
+	sor70
 
 
 
